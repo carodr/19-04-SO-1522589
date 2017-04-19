@@ -9,4 +9,4 @@ echo $((2**4))
 
 
 export var1=$(ps -A | tail -n +2 | wc -l)  
-invitado@s5pc31 ~ $ echo $((var1))  
+$ echo $((var1))  
